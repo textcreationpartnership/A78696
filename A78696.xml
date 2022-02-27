@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties declaration concerning the High and Honourable Court of Parliament; together with his protestation, for a firme settlement of the true Protestant religion, the law, peace, and prosperity of this kingdome. As also, two letters from his Excellency Sir Thomas Fairfax to the Right Honourable William Lenthal Esquire, Speaker of the Honourable House of Commons.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78696</idno>
+            <idno type="STC">Wing C2194</idno>
+            <idno type="STC">Thomason E405_25</idno>
+            <idno type="STC">ESTC R201899</idno>
+            <idno type="EEBO-CITATION">99862384</idno>
+            <idno type="PROQUEST">99862384</idno>
+            <idno type="VID">114542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114542)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties declaration concerning the High and Honourable Court of Parliament; together with his protestation, for a firme settlement of the true Protestant religion, the law, peace, and prosperity of this kingdome. As also, two letters from his Excellency Sir Thomas Fairfax to the Right Honourable William Lenthal Esquire, Speaker of the Honourable House of Commons.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wood,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber:[i.e. September] 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114542:1" rendition="simple:additions"/>
+            <p>THE KINGS MAJESTIES DECLARATION <hi>CONCERNING</hi> The High and Honourable Court of <hi>Parliament;</hi> together with His <hi>Proteſtation,</hi> for a firme ſettlement of the true Proteſtant Religion, the Law, Peace, and proſperity of this Kingdome.</p>
+            <p>As alſo, two Letters from his Excellency Sir <hi>Thomas Fairfax</hi> to the Right Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the Honourable Houſe of <hi>Commons.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <figDesc>depiction of King Charles I</figDesc>
+            </figure>
+            <p>
+               <add>7<hi rend="sup">ber</hi>: 6</add> LONDON, Printed for R. WOOD, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114542:2"/>
+            <pb facs="tcp:114542:2"/>
+            <head>THE KINGS MAJESTIES DECLARATION To all His Loyall Subjects; Concerning the High and Honourable Court of Parliament.</head>
+            <div type="preface">
+               <head>The Preface.</head>
+               <p>WHereas there hath (of late) many Copies of great conſequence, (and worthy of the King<g ref="char:EOLhyphen"/>domes obſervation and acceptation) happened to my hands, who after peruſall of the ſame, found them ve<g ref="char:EOLhyphen"/>ry neceſſary and requiſite, to preſent to the view of the whole Kingdome, for generall ſatisfaction to all, and through the earneſtneſſe of my deſire to make the ſaid Papers viſible, I thought it not amiſſe to pre<g ref="char:EOLhyphen"/>ſent theſe enſuing particulars, to all thoſe who deſires
+<pb n="2" facs="tcp:114542:3"/> to be ſatisfied concerning the preſent affaires of the King, Parliament, and Army. <hi>(VIZ.)</hi>
+               </p>
+               <p>Firſt, His Majeſties gracious Declaration, concer<g ref="char:EOLhyphen"/>ning the High and Honourable Court of Parliament, with His Proteſtation, diſavowing any preparations in Him to reſiſt his two Houſes of <hi>Parliament,</hi> but that all His endeavours tends to the firme and conſtant ſet<g ref="char:EOLhyphen"/>tlement of the true Proteſtant Religion, the juſt privi<g ref="char:EOLhyphen"/>ledges of Parliaments, the liberty of the Subject, and the peace and proſperity of this Kingdome; as appea<g ref="char:EOLhyphen"/>reth more fully, in His Majeſties Declaration, a Copy whereof followeth:</p>
+            </div>
+            <div type="royal_declaration">
+               <head>The Kings Majesties Declaration, concerning His Two Houſes of Parliament.</head>
+               <opener>
+                  <signed>Charles Rex.</signed>
+               </opener>
+               <p>WHereas there having been many Ru<g ref="char:EOLhyphen"/>mours ſpread, and informations given, which may have induced many to believe that we intend to make was againſt our Parliament, Wee profeſſe before God, and declare to all the world, that we alwayes have, and do abhor all ſuch De<g ref="char:EOLhyphen"/>ſignes, and deſire all our Nobility and Commons, who are here upon the place, to declare whether they have not been witneſſes of our frequent and earneſt Declaratio<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and profeſſions to this pur<g ref="char:EOLhyphen"/>poſe; Whither they ſee any colour of preparati<g ref="char:EOLhyphen"/>ons or Councels, that might reaſonably beget a be<g ref="char:EOLhyphen"/>liefe of any ſuch deſigne.</p>
+               <p>And whither they be not fully perſwaded, that
+<pb n="3" facs="tcp:114542:3"/> we have no ſuch intention, but that all our endea<g ref="char:EOLhyphen"/>vours (according to our many profeſſions) tend to the firme and conſtant ſettlement of the true pro<g ref="char:EOLhyphen"/>teſtant Religion, the iuſt priviledges of Parlia<g ref="char:EOLhyphen"/>ments, the liberty of the Subiect, the law, peace and proſperity of this Kingdome.</p>
+            </div>
+            <div type="letters">
+               <p>His Excellency Sir <hi>Thomas Fairfax</hi> hath lately ſent two ſeverall Letters to <hi>William Lenthal</hi> Eſq; (Speaker of the Houſe of Common) touching the Lord <hi>Lau<g ref="char:EOLhyphen"/>derdail,</hi> and the Scottiſh Nation, as followeth:</p>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Received your Letter, and another incloſed from the Commiſſioners of Scotland, expreſſing their ſence of injuries offered to them by ſome of the Ar<g ref="char:EOLhyphen"/>my. Firſt, to my L. <hi>Lauderdail,</hi> in denying him acceſſe to the King. And 2. to Mr. <hi>Cheiſly,</hi> in detaining him at New-caſtle in his paſſage to <hi>Scotland:</hi> To both which I thought ſit to returne this anſwer; That no man is more unwillieg to ſuffer any thing to be done by any under my command, that may be diſ-ſatisfaction to that Nation then my ſelfe; nor any ſhall be more willing to do all things which rend to keepe a right underſtanding, and to preſerve the happy Union be<g ref="char:EOLhyphen"/>tween the two Kingdomes, then I. But I hope, the rude<g ref="char:EOLhyphen"/>neſſe of Souldiers diſavowed will not be made of Nationall reflection, which is all of the caſe of the Earle of <hi>Lauderdail;</hi> And as to that of Mr. <hi>Chiefly,</hi> I have ſent to the Governour of New-caſtle to give him a free paſſage into Scotland, which (I hope) is done already; for hearing of it, I ſent to him to that purpoſe, and ſhall in all things be ready to obſerve your comands, and reſt,</p>
+                  <closer>
+                     <signed>Your humble ſervant, <hi>T. Fairfax.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="4" facs="tcp:114542:4"/>
+                  <opener>
+                     <salute>M. Speaker,</salute>
+                  </opener>
+                  <p>VPon conſideration of the preſent advantage that may be made (through the goodneſſe of God of this late ſucceſſe which it hath pleaſed the Lord to give the Forces in Ireland, I have there upon adviſed with my Councell of warre how the forces in this Kingdome might be improved on for that ſervice: and I finde that there will be in readineſſe for that ſervice to the number of 6000 Foot, and 2000 Horſe, which if the may have encouragement will be ready to goe as ſoon as you ſhall be plleaſed to command them. I doe therefore deſire you would move the houſes to take ſome effectuall courſe for the pro<g ref="char:EOLhyphen"/>viding of moneys and other neceſſaries. And for the removing of obſtructions, and the more cleare and quick proceedings in this ſo important a worke, I ſhall appoint a certain number of Officers to wait ſuch as the Houſe ſhall appoint to conſult upon the whole buſineſſe, if you ſhall think fit I remain</p>
+                  <closer>
+                     <dateline>Kingſton,
+<date>Aug. 27. 1647.</date>
+                     </dateline>
+                     <signed>Your moſt humble ſervant, <hi>Thomas Fairfax.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>For the honourable <hi>William Lenthall</hi> Eſq; Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons.</trailer>
+               </div>
+            </div>
+            <div type="part">
+               <head>The proceedings of both Houſes of Parliament, touching the Kings coming to London.</head>
+               <p>THe Houſe of Peers were acquainted from the Commiſſioners of the Kingdome of Scotland, (to whom the Commiſſioners of both Houſes of the Committee of both Kingdomes at Derby Houſe, had
+<pb n="5" facs="tcp:114542:4"/> communicated the Votes of both Houſes in paſſing the Propoſitions for Peace to be ſent to the Kings Majeſty deſiring their concurrence) that they had concurred in the ſaid Propoſitions, with the Amend<g ref="char:EOLhyphen"/>ments as they were preſented to them, by the ſaid Members, which their Lordſhips taking into con<g ref="char:EOLhyphen"/>ſideration, made this <hi>Vote.</hi>
+               </p>
+               <p>Reſolved upon the queſtion, by the Lords in Par<g ref="char:EOLhyphen"/>liament Aſſembled, That a Meſſage be ſent to the Commons to acquaint them with the concurrence of the States Commiſſioners to the Propoſitions to be ſent to the Kings Majeſty for Peace.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_resolutions">
+                           <opener>
+                              <dateline>
+                                 <date>Die Mercurii Septem. 1. 1647.</date>
+                              </dateline>
+                           </opener>
+                           <p>Both Houſes of Parliament taking into conſidera<g ref="char:EOLhyphen"/>tion, the great weight of diſpatching the Propoſitions to be ſent to the Kings Majeſty, to be paſſed, and made into Acts, for the ſetling of the Kingdome, and that his Majeſty may come to London, and ſit with his Par<g ref="char:EOLhyphen"/>liament, that ſo the Kingdome may be ſetled in Peace, The Houſes of Parliament deſiring that it may be done withall convenient ſpeed, made theſe inſuing <hi>Votes.</hi>
+                              <list>
+                                 <item>1. Reſolved upon the queſtion, by the Lords and Commons in Parliament Aſſembled, That a day be appointed, for the delivering of the Propoſitions of both Kingdomes to the Kings Majeſty for a ſafe and well grounded peace.</item>
+                                 <item>2. Reſolved upon the queſtion, by the Lords and Commons in Parliament Aſſembled, That on Tueſ<g ref="char:EOLhyphen"/>day next the ſaid Propoſitions be preſented from both Kingdomes to the Kings Majeſty.</item>
+                                 <item>3, Reſolved upon the queſtion, by the Lords and Commons in Parliament Aſſembled, That the Com<g ref="char:EOLhyphen"/>miſſioners of both Houſes appointed to attend his
+<pb n="6" facs="tcp:114542:5"/> Majeſty ſhall deliver the ſaid Propoſitions to the Kings Majeſty.</item>
+                                 <item>4. Reſolved upon the queſtion, by the Lords and in parliament Aſſembled, That the Commiſſioners of the Kingdome of Scotland joyne with the Com<g ref="char:EOLhyphen"/>miſſioners of both Houſes of the Parliament of Eng<g ref="char:EOLhyphen"/>land in the delivery of the Propoſitions to the Kings Majeſty on Tueſday next.</item>
+                                 <item>5. Reſolved upon the queſtion, by the Lords and Commons in Parliament Aſſembled, That notice be given to the Commiſſioners of the Kingdome of Scot<g ref="char:EOLhyphen"/>land, at Worceſter Houſe, to meet the Commiſſioners of both Houſes to deliver the Propoſitions to the Kings Majeſty for a ſafe and well grounded Peace.</item>
+                              </list>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>From Putney thus. His Excellency being very much wearyed and his Spirits ſpent in his conſtant labours in the Publique affaires of the Kingdome hath bin a day or 2 to refreſh himſelf at Chiſwick and Turnam green but comes hither again this night to his quarters at the high Sherffes houſe, the Lieutenant Generall quarters at Mr. Goodwyns and the Committee ſit at Mr. Huberts Satturday laſt the Earle of Ormond was with his Majeſty and had ſome conference with him, and from thence came on Monday to viſite the General at our head quarters who gave him the civil reſpect due to a perſon of Honour.</p>
+               <p>A Letter was Ordered to be ſent to the Commiſ<g ref="char:EOLhyphen"/>ſioners with the generall requiring them to give the Parliament a further account concerning the 6 thou<g ref="char:EOLhyphen"/>ſand Foot and 2 thouſand Horſe which his Excel<g ref="char:EOLhyphen"/>lency propounds to go for Ireland as alſo what Reg. they are and under whoſe conduct they ſhould go and what money and other neceſſaryes of proviſions they require.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
